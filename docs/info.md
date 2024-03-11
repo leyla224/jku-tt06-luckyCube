@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+In this project, goal was to create an engaging digital dice experience. The
+primary goal is to display the word "roll" on the LED display, accompanied by
+the illumination of the number "6" – a universally recognized lucky number in
+dice games.
 
 ## How to test
 
-Explain how to use your project
+Play with switch
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+-
